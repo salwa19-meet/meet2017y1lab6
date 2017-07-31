@@ -1,0 +1,14 @@
+
+UP_ARROW = "UP"
+LEFT_ARROW = "LEFT"
+DOWN_ARROW = "DOWN"
+RIGHT_ARROW = "RIGHT"
+SPACEBAR = "SPACE"
+UP = 0
+LEFT = 1
+DOWN = 2
+RIGHT = 3
+
+
+direction = UP
+
